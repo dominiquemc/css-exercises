@@ -1,19 +1,18 @@
-.odd {
-  background-color: rgb(255, 167, 167);
-  font-family: Verdana, sans-serif;
-}
-
-.oddly-cool {
-  font-size: 24px;
+.one, .three, .five {
+  background-color:  #eab0a6;
+  font-family: 'Verdana', 'sans-serif';
 }
 
 #two {
-  color: #0000ff;
+  color:#5168f0;
   font-size: 36px;
 }
 
-#four {
-  background-color: hsl(120, 100%, 75%);
+.three {
   font-size: 24px;
-  font-weight: bold;
+}
+
+#four {
+  background-color: #51f064;
+  font-size: 24px;
 }
