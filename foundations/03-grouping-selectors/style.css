@@ -1,0 +1,14 @@
+.button-y {
+    background-color: #000000;
+    color: white;
+}
+
+.button-n {
+    background-color:  rgb(246, 230, 76);
+}
+
+.button-y,
+.button-n {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
