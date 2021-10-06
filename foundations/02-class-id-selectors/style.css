@@ -1,0 +1,18 @@
+.one, .three, .five {
+    background-color:  #eab0a6;
+    font-family: 'Verdana', 'sans-serif';
+}
+
+#two {
+    color:#5168f0;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #51f064;
+    font-size: 24px;
+}
