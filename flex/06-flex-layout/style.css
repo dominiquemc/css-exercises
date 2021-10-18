@@ -41,9 +41,19 @@ input {
   font-size: 0.8em;
 }
 
+.left-links {
+  padding-left: 0;
+  margin-left: 10px;
+}
+
+.right-links {
+  margin-right: 5px;
+}
+
 a {
   text-decoration: none;
   color: #363535;
+  padding: 5px;
 }
 
 ul {
