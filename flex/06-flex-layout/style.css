@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 6px 15px; 
 }
 
 input {
@@ -47,7 +48,8 @@ input {
 }
 
 .right-links {
-  margin-right: 5px;
+  padding-right: 10px;
+ 
 }
 
 a {
@@ -64,5 +66,8 @@ list-style-type: none;
   display: flex;
   justify-content: space-between;
   background: #eeeeee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
