@@ -46,6 +46,8 @@ a {
 .card-container {
   padding: 32px;
   display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
 
 }
 
@@ -53,6 +55,8 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 16px 16px 200px;
+  width: 300px;
 
 
   
